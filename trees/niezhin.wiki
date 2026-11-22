@@ -1,9 +1,9 @@
 <div class="tree-chabad" style="text-align:right;">
-<div style="text-align:center; font-size:90%; line-height:1.9;">{{מקרא2|#f2c94c|נשיאי חב"ד|גבול=2px solid #555}} {{מקרא2|#fff6da|רבניות|גבול=2px solid #555}} {{מקרא2|#f5b09c|בית ניעז'ין|גבול=2px solid #555}} {{מקרא2|#e4e4e4|בני משפחה נוספים|גבול=2px solid #555}}</div>
+<div style="text-align:center; font-size:90%; line-height:1.9;">{{מקרא2|#f2c94c|נשיאי חב"ד|גבול=2px solid #555}} {{מקרא2|#f9d5e5|רבניות|גבול=2px solid #555}} {{מקרא2|#f5b09c|בית ניעז'ין|גבול=2px solid #555}} {{מקרא2|#e4e4e4|בני משפחה נוספים|גבול=2px solid #555}}</div>
 {{עץ משפחה/התחלה|עיצוב=font-size:80%; table-layout:fixed; width:64.8em; margin:0.5em auto; text-align:center;}}
 {{עץ משפחה
 |TZ=[[קובץ:Tzemachtzedek2.jpg|60x76px|קישור=רבי מנחם מענדל שניאורסון (אדמו"ר הצמח צדק)|alt=]]{{ש}}'''[[רבי מנחם מענדל שניאורסון (אדמו"ר הצמח צדק)|הרבי הצמח צדק]]'''{{ש}}{{כתב מוקטן|תקמ"ט-תרכ"ו (1789-1866)}}
-|עיצוב_TZ=background:#f2c94c; border:3px solid #7a5300; font-weight:bold;color:#202122; border-radius:5px; padding:0.25em 0.35em; line-height:1.25;
+|עיצוב_TZ=background:#f2c94c; border:3px solid #7a5300;color:#202122; border-radius:5px; padding:0.25em 0.35em; line-height:1.25;
 | | | | | | | | | | | | |TZ| | | | | | | | | | | | }}
 {{עץ משפחה| | | | | | | | | | | | | |!| | | | | | | | | | | | | }}
 {{עץ משפחה
@@ -34,9 +34,9 @@
 {{עץ משפחה| | | | | | | | | | | | | | | | | | | | | |!| | | | | }}
 {{עץ משפחה
 |ND=[[נחמה דינה שניאורסון (אשת אדמו"ר הריי"צ)|הרבנית נחמה דינה]]{{ביאור|אביה, רבי אברהם, היה בן דודו של הרבי הרש"ב, אבי בעלה, ושני בני הזוג היו נינים של הרבי הצמח צדק.{{הערה|שם=ענףניעזין-KITZUR-עמ234|קמינצקי, ''קיצור תולדות חב"ד'', עמ' 234.}}}}{{ש}}{{כתב מוקטן|תרמ"ב-תשל"א{{ש}}(1881-1971)}}{{ש}}{{כתב מוקטן|נישאו בי"ג באלול{{ש}}תרנ"ז (1897)}}
-|עיצוב_ND=background:#fff6da; border:2px solid #c9a227;color:#202122; border-radius:5px; padding:0.25em 0.35em; line-height:1.25;
+|עיצוב_ND=background:#f9d5e5; border:2px solid #b0467a;color:#202122; border-radius:5px; padding:0.25em 0.35em; line-height:1.25;
 |RY=[[קובץ:Frierdiger Rebbe.tif|60x76px|קישור=רבי יוסף יצחק שניאורסון (אדמו"ר הריי"צ)|alt=]]{{ש}}'''[[רבי יוסף יצחק שניאורסון (אדמו"ר הריי"צ)|הרבי הריי"צ]]'''{{ש}}{{כתב מוקטן|תר"מ-תש"י{{ש}}(1880-1950)}}
-|עיצוב_RY=background:#f2c94c; border:3px solid #7a5300; font-weight:bold;color:#202122; border-radius:5px; padding:0.25em 0.35em; line-height:1.25;
+|עיצוב_RY=background:#f2c94c; border:3px solid #7a5300;color:#202122; border-radius:5px; padding:0.25em 0.35em; line-height:1.25;
 | | | | | | | | | | | | | | | | | | | | |ND|-|RY}}
 {{עץ משפחה/סוף}}
 <div style="font-size:88%; max-width:56em; margin:0.4em auto;">[[חצר ניעז'ין]] נוסדה בידי רבי ישראל נח, בנו הרביעי של [[רבי מנחם מענדל שניאורסון (אדמו"ר הצמח צדק)|הרבי הצמח צדק]], שהתיישב בניעז'ין בקיץ תרכ"ח (1868), בעיר שבה מנוחת סבו, [[רבי דובער שניאורי (אדמו"ר האמצעי)|אדמו"ר האמצעי]]. אחרי הסתלקותו סירב בנו, רבי אברהם, לרשת את מקומו, וחסידיו פנו לחצרות האחרות של בית חב"ד.{{הערה|שם=ענףניעזין-KITZUR-עמ152}} סדר הילדים בעץ אינו סדר לידתם.</div>
