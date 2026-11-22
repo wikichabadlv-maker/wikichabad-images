@@ -1,0 +1,10 @@
+/* תבנית ניווט קבוצות של ויקיחב"ד */
+.wc-navbox { width: 100%; clear: both; margin: 1em auto 0.5em; border: 1px solid #a2a9b1; background-color: #fdfdfd; padding: 2px; border-spacing: 2px; font-size: 90%; line-height: 1.6em; }
+.wc-navbox .wc-nav-title { background-color: #b0c4de; color: #000; font-size: 112%; font-weight: bold; text-align: center; padding: 0.25em 1em; }
+.wc-navbox .wc-nav-above, .wc-navbox .wc-nav-below { background-color: #eaecf0; text-align: center; font-weight: bold; padding: 0.2em 0.5em; }
+.wc-navbox .wc-nav-group { background-color: #dde6f0; text-align: center; white-space: nowrap; font-weight: bold; width: 1%; padding: 0.2em 0.8em; vertical-align: middle; }
+.wc-navbox .wc-nav-list { text-align: right; padding: 0.2em 0.5em; vertical-align: middle; }
+.wc-navbox .wc-nav-odd { background-color: #fdfdfd; }
+.wc-navbox .wc-nav-even { background-color: #f6f8fa; }
+.wc-navbox .wc-nav-list b { color: #202122; }
+@media screen and (max-width: 640px) { .wc-navbox .wc-nav-group { white-space: normal; width: auto; } }
