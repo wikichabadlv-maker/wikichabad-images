@@ -1,6 +1,6 @@
 -- יחידה:ניווט קבוצות — תבנית ניווט מקורית של ויקיחב"ד.
 -- פרמטרים: כותרת, למעלה, קבוצה1..40 + רשימה1..40 (+ תמונהN: דיוקן קטן ליד שם הקבוצה, פרטN: שורת משנה קטנה),
--- למטה, מוסתר (כן = מקופלת), צבע (רקע הכותרת), סמל (קובץ קטן בפינת הכותרת).
+-- למטה, מוסתר (כן = מקופלת), (צבע וסמל אינם בשימוש: עיצוב אחיד לכל התבניות).
 -- העיצוב ב[[תבנית:ניווט קבוצות/styles.css]].
 local p = {}
 
@@ -18,7 +18,6 @@ function p.main(frame)
 		th:tag('span'):addClass('wc-nav-emblem'):wikitext('[[קובץ:' .. mw.text.trim(args['סמל']) .. '|22px|קישור=|alt=]]')
 	end
 	th:tag('span'):addClass('wc-nav-title-text'):wikitext(args['כותרת'] or '')
-	if nonEmpty(args['צבע']) then th:css('background', mw.text.trim(args['צבע'])) end
 	if nonEmpty(args['למעלה']) then
 		root:tag('tr'):tag('td'):attr('colspan', '2'):addClass('wc-nav-above'):wikitext(args['למעלה'])
 	end
