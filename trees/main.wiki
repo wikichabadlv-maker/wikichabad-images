@@ -1,6 +1,6 @@
 <includeonly><div class="tree-chabad" style="text-align:right;">
 <div style="text-align:center; font-size:90%; line-height:1.9;">{{מקרא2|#f6e3a8|נשיאי חב"ד|גבול=1px solid #888}} {{מקרא2|#fbf1d6|רבניות|גבול=1px solid #888}} {{מקרא2|#dcebd0|אבות הרבי|גבול=1px solid #888}} {{מקרא2|#d6e4f5|ענף קאפוסט|גבול=1px solid #888}} {{מקרא2|#e6daf2|ענף ליאדי|גבול=1px solid #888}} {{מקרא2|#f6dad3|ענף ניעז'ין|גבול=1px solid #888}} {{מקרא2|#d3ece6|ענף אוורוטש|גבול=1px solid #888}} {{מקרא2|#ececec|בני משפחה נוספים|גבול=1px solid #888}}</div>
-{{עץ משפחה/התחלה|עיצוב=font-size:80%; margin:0.5em auto; text-align:center;}}
+{{עץ משפחה/התחלה|עיצוב=font-size:80%; table-layout:fixed; width:70.2em; margin:0.5em auto; text-align:center;}}
 {{עץ משפחה
 |AZ='''[[אדמו"ר הזקן]]'''{{ש}}רבי שניאור זלמן{{ש}}{{כתב מוקטן|תק"ה–תקע"ג{{ש}}(1745–1812)}}{{ש}}{{כתב מוקטן|נשיאות: תקל"ד–תקע"ג{{ש}}(1774–1812)}}
 |עיצוב_AZ=background:#f6e3a8; border-color:#9a7416;color:#202122; border-radius:5px; padding:0.25em 0.35em; line-height:1.25;
